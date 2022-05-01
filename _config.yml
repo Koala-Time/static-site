@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: Open Broadway Data – Archive Site
-description: "The project is currently archived, with limited ongoing development."
+title: Koala Time
+description: Welcome to Koala Time! (This site is a stub for future work.)
 google_analytics: UA-177940998-1
-logo: images/open-broadway-data-logo.png
-logo_alt: Open Broadway Data logo
+logo: images/koala-time-logo.png
+logo_alt: Koala Time Logo
 plugins:
   - jekyll-seo-tag
   - jekyll-menus
@@ -17,8 +17,8 @@ relative_links:
 
 ### Build settings ###
 github:
-  repository_url: https://github.com/Open-Broadway-Data/static-website
+  repository_url: https://github.com/Koala-Time/static-site
   is_project_page: true
-repository: Open-Broadway-Data/static-website
+repository: Koala-Time/static-site
 baseurl: ""
-url: https://openbroadwaydata.com
+url: https://koalatime.app
