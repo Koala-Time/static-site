@@ -21,4 +21,9 @@ github:
   is_project_page: true
 repository: Koala-Time/static-site
 baseurl: ""
+
+# SEO Stuff
 url: https://koalatime.app
+twitter:
+  username: koalatimeapp
+  card: summary
